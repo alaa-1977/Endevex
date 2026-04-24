@@ -4,6 +4,11 @@
       "model": "RS-TT1",
       "version": "1.02.63",
       "url": "https://raw.githubusercontent.com/alaa-1977/Endevex/main/firmware/RS-TT1_1.02.63.ino.bin"
+    },
+    {
+      "model": "NW-TT1",
+      "version": "1.02.65",
+      "url": "https://raw.githubusercontent.com/alaa-1977/Endevex/main/firmware/NW-TT1_1.02.65.ino.bin"
     }
   ]
 }
